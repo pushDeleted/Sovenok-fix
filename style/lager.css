@@ -1,0 +1,11 @@
+.slider{
+		margin-left: 0px;
+	}
+
+	.slider img{
+		width: 500px;
+	}
+
+	#slider1 img{
+		margin-left: 35%;
+	}
