@@ -24,10 +24,10 @@
                 <div class="col-xl-10 col-lg-10 col-md-9 col-sm-8 col-8" id="name">
                     <h1 id="lagname">Детский оздоровительный лагерь "Совёнок"</h1>
                     <ul>
-                        <div><li><a href="index.php">Главная</a></li></div>
-                        <div><li><a href="lager.php">О лагере</a></li></div>
-                        <div><li><a href="contact.php">Контакты</a></li></div>
-                        <div><li><a href="excursion.php">Краткий экскурс</a></li></div>
+                        <a href="#"><div><li>Главная</li></div></a>
+						<a href="lager.php"><div><li>О лагере</li></div></a>
+						<a href="contact.php"><div><li>Контакты</li></div></a>
+						<a href="excursion.php"><div><li>Краткий экскурс</li></div></a>
                     </ul>
                 </div>
         </div>
@@ -38,7 +38,7 @@
 		<div class="row" style="background-color: #b3d9ff">
 
 
-			<img src="img/cart.jpg" id="cart" style="width: 1130px; height: 550px; margin-left: 13px;"></div>
+			<img src="img/cart.jpg" id="cart" style="width: 100%; height: 550px;"></div>
 			
 			<br>
 
@@ -80,7 +80,7 @@
 
 		<!-- relize -->
 
-		<div class="col-xl-3 col-lg-3 col-sm-5 col-4" id="title">
+		<!-- <div class="col-xl-3 col-lg-3 col-sm-5 col-4" id="title">
 
 				<h1>Пресс-релизы</h1>
 				<ul>
@@ -89,15 +89,25 @@
 					<li><a href="#">В «Совёнке» стартовала акция «Здоровое питание – активное долголетие»</a></li>
 				</ul>
 			</div>
-		</div>
+		</div> -->
+
+		<div class="col-xl-3 col-lg-3 col-sm-5 col-4" id="title">
+				<h1>Пресс-релизы</h1>
+				<ul>
+					<li><a href="#">Скоро заезд второй смены</a></li>
+					<li><a href="#">Китайские дети обязательно должны побывать в «Совёнке»</a></li>
+					<li><a href="#">В «Совёнке» стартовала акция «Здоровое питание – активное долголетие»</a></li>
+				</ul>
+			</div>
 		
 		<!-- end -->
 
 
 		<br>
 		<br>
+		<div id="vkgroup">
 		<p><b>Более подробная информация по стоимости (а она совсем небольшая за 3 дня) и другим условиям, в открытой группе <span><a href="https://vk.com/sovyonok_party"> *тык* </a></span><br>Совсем подробная информация в закрытой группе <span><a href="https://vk.com/es_summer_fest"> *тык* </a></span> для тех, кто точно решает ехать к нам.<b></p>
-
+		</div>
 	</div>
 </div>
 

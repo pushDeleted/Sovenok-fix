@@ -21,11 +21,10 @@
 				</div>
 				<div class="col-xl-10 col-lg-10 col-md-9 col-sm-8 col-8" id="name">
 					<h1 id="lagname">Детский оздоровительный лагерь "Совёнок"</h1>
-					<ul>
-						<div><li><a href="index.php">Главная</a></li></div>
-						<div><li><a href="lager.php">О лагере</a></li></div>
-						<div><li><a href="contact.php">Контакты</a></li></div>
-						<div><li><a href="excursion.php">Краткий экскурс</a></li></div>
+					<ul><a href="#"><div><li>Главная</li></div></a>
+						<a href="lager.php"><div><li>О лагере</li></div></a>
+						<a href="contact.php"><div><li>Контакты</li></div></a>
+						<a href="excursion.php"><div><li>Краткий экскурс</li></div></a>
 					</ul>
 				</div>
 		</div>
